@@ -29,5 +29,5 @@ We are proud to be able to detect with high accuracy with the usage of OpenCV.
 2) Customized Lambda function will be added to add more functionalities for the applilcation.
 
 # Try it out
-https://www.xiaopiu.com/h5/byId?type=project&id=5c71e8bd92a6615e8baf91d5
-https://www.xiaopiu.com/h5/byId?type=project&id=5c72367092a6615e8baf96bd
+- https://www.xiaopiu.com/h5/byId?type=project&id=5c71e8bd92a6615e8baf91d5
+- https://www.xiaopiu.com/h5/byId?type=project&id=5c72367092a6615e8baf96bd
